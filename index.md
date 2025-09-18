@@ -58,3 +58,10 @@ layout: default
 　　最后说个不常见视角：特多运营商套餐常含本地APP福利！FLOW送Spotify半年会员，Digicel绑Caribbean Airlines积分。上次我用流量卡打车，司机聊起本地人其实爱用“流量+短信”组合包，便宜又防骚扰——这细节，导游都不一定知道。
 
 　　总之，2025年特多流量卡没那么玄乎，选对套餐+提前设APN，加勒比网络随你玩转。要是还犹豫，想想那个日落朋友圈：没网的日子，再美的海也是寂寞的蓝。对了，出发前备张$20现金买卡，机场汇率血亏——这建议值回票价吧？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Trinidad And Tobago SIM 卡购买与激活指南](https://faciylike.github.io/trinidad-and-tobago-sim-guides)
